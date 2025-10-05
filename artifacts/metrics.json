@@ -1,0 +1,8 @@
+{
+  "smape_lgb": 0.08796312553841067,
+  "smape_naive": NaN,
+  "mase_lgb": 0.5459897716631127,
+  "mase_naive": NaN,
+  "cutoff": "2017-11-19",
+  "horizon_days": 14
+}
